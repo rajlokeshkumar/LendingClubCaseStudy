@@ -22,8 +22,11 @@ On the other hand, approving loans for applicants not likely to repay and at ris
 
 ## Conclusions
 **Focus more on subgrades B3,B4,B5,C1 and C2**: Analysis shows the employee with this subgrade has more possibility of defaulting , lending club should consider additional risk mitigation measures 
+
 **Interest Rate decrease for 60 months loan:** lending club should consider decreasing the interest rate for the long term loans 
+
 **Careful Evaluation for Debt Consolidation Loans:** Carefully evaluate applicants seeking loan for the purpose of debt consolidation, considering potential interest rate adjustments or offering financial counseling services to manage the associated risks.
+
 **Consider home ownership**: Home ownership should be considered as an potential factor for repaying the loan, the person who has own home has no need of rent, so the possibility of repayment of loan is hig
 
 
